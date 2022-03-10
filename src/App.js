@@ -4,7 +4,7 @@ import MovieCard from './MovieCard'
 import './App.css'
 import SearchIcon from './search.svg'
 
-const API_URL = 'http://omdbapi.com?apikey=7eb1d675'
+const API_URL = 'https://omdbapi.com?apikey=7eb1d675'
 
 // const movie1 = {
 //     "Title": "Batman Begins",
