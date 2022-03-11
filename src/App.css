@@ -154,6 +154,10 @@ section {
   left: 0;
 }
 
+.movie:hover div:nth-of-type(3) {
+  opacity: 0;
+}
+
 .movie div:nth-of-type(3) span {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
@@ -179,7 +183,7 @@ section {
 
 .movie:hover div:nth-of-type(2) {
   height: 100%;
-  opacity: 0.3;
+  /* opacity: 0.3; */
 }
 
 .movie:hover div:nth-of-type(3) {
