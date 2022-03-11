@@ -34,7 +34,7 @@ const App = () => {
             <section id='intro-section'>
                 <div className='container'>
                     <h1>Movie React App</h1>
-                    <h2>Millions of movies, TV shows and people to discover. Explore now.</h2>
+                    <h2>Millions of movies, TV shows and people to discover.</h2>
                     <div className='search'>
                         <input 
                             type='text'
